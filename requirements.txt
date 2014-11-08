@@ -1,0 +1,9 @@
+@TODO
+=====
+
+- main header image
+  - slideshow?
+  - fixed image but you can change it when you want?
+- text needs a font + look 'fresher'
+- home page would have - 'latest news'
+- buy a .org domain
